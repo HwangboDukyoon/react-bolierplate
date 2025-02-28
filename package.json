@@ -1,7 +1,7 @@
 {
   "name": "haru-bolier-plate",
-  "version": "2.0.0",
-  "description": "하루팀에서 사용할 예정인 보일러 플레이트 v2.0",
+  "version": "1.0.0",
+  "description": "React With Vite Boiler Plate v1.0",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
